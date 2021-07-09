@@ -1,0 +1,4 @@
+numpy==1.19.2
+tf_nightly_gpu==2.7.0.dev20210702
+ipython==7.25.0
+tensorflow==2.5.0
